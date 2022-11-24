@@ -1,74 +1,48 @@
-<table>
-  <tr>
-    <td></td>
-    <td></td>
- </tr>
- <tr>
-   <td></td>
-   <td></td>
- </tr>
- <tr>
-   <td></td>
-   <td></td>
- </tr>
- <tr>
-   <td></td>
-   <td></td>
- </tr>
- </table>
- 
+<html>
  <table>
      <tr>
-        < td>horario</td>
-        < td>segunda</td>
-        < td>terça</td>
-        < td>quarta</td>
-        < td>quinta</td>
-        < td>sexta</td>
-     </tr>
- </table>
- 
- <table>
-    <tr>
-       < td>horario</td>
-       < td>segunda</td>
-       < td>terça</td>
-       < td>quarta</td>
-       < td>quinta</td>
-       < td>sexta</td>
-    </tr> 
-</table>
-
-<table>
-    <tr>
-       < td>horario</td>
-       < td>segunda</td>
-       < td>terça</td>
-       < td>quarta</td>
-       < td>quinta</td>
-       < td>sexta</td>
-    </tr> 
-</table>
-
-<table>
-   <tr>
-      < td>horario</td>
-      < td>segunda</td>
-      < td>terça</td>
-      < td>quarta</td>
-      < td>quinta</td>
-      < td>sexta>/td>
-  </tr>
-</table>
-
-<table>
-   <tr>
-      < td>horario</td>
-      < td>segunda</td>
-      < td>terça</td>
-      < td>quarta</td>
-      < td>quinta</td>
-      < td>sexta</td>
+        <td>07:10</td>
+        <td>edu. fisica</td>
+        <td>terça</td>
+        <td>quarta</td>
+        <td>quinta</td>
+        <td>sexta</td>
+     
+       <td>08:00</td>
+       <td>edu.financeira</td>
+       <td>terça</td>
+       <td>quarta</td>
+       <td>quinta</td>
+       <td>sexta</td>
+     
+       <td>08:50</td>
+       <td>filosofia</td>
+       <td>terça</td>
+       <td>quarta</td>
+       <td>quinta</td>
+       <td>sexta</td>
+    
+      <td>09:50</td>
+      <td>segunda</td>
+      <td>terça</td>
+      <td>quarta</td>
+      <td>quinta</td>
+      <td>sexta>/td>
+  
+      <td>10:40</td>
+      <td>segunda</td>
+      <td>terça</td>
+      <td>quarta</td>
+      <td>quinta</td>
+      <td>sexta</td>
+  
+      <td>11:30</td>
+      <td>segunda</td>
+      <td>terça</td>
+      <td>quarta</td>
+      <td>quinta</td>
+      <td>sexta</td>
+     </html>
+   </table>
    </tr>
- </table>
    
